@@ -1,0 +1,39 @@
+.box {
+    .el-card__body {
+        padding: 0;
+    }
+    .el-form {
+        padding: 20px;
+    }
+}
+
+.el-aside {
+    .el-col-12 {
+        max-width: 100% !important;
+        width: 200px;
+    }
+}
+
+// 添加商品
+.addgoods {
+    .el-tabs--left {
+        overflow: auto;
+    }
+    .el-tabs__header {
+        height: 200px;
+    }
+    .el-tabs__content {
+        // height: 410px;
+        padding-left: 20px;
+    }
+    .el-form-item {
+        margin-bottom: 18px;
+    }
+}
+
+// 权限列表
+.tags {
+    .el-form-item {
+        margin-bottom: 0;
+    }
+}
